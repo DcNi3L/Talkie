@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175347688117",
+    "project_id": "chat-talkie",
+    "storage_bucket": "chat-talkie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175347688117:android:f8672625f96752d010d4fc",
+        "android_client_info": {
+          "package_name": "com.znd.talkie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175347688117-1sv0nnim0tep617pk181pir1hinmbthl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw7wAFtRPJfLI3-8SLaoqzzweVuIC1Ypc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175347688117-1sv0nnim0tep617pk181pir1hinmbthl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Talkie</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="sign_in">Login to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Sign In</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="your_image">Your Image</string>
+    <string name="name">Your Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="select_user">Select User</string>
+    <string name="type_a_message">Type a message…</string>
+    <string name="online">Online</string>
+</resources>
